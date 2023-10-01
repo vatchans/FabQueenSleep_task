@@ -3,20 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog post</title>
-    <style>
-    body{
-        width:100%
-
-    }
-    </style>
 </head>
 <body>
     <h1>Backend Exercise: Comprehensive Blog API</h1>
     <p>Hi, I hope you are doing well. Please find the documentation for the Backend Exercise: Comprehensive Blog API.</p>
     <p>All endpoints are secured with an API key. To access each endpoint, provide the key in the headers [api-key].</p>
-
-    <h2>1. Create Blog Post (api/posts) - POST Method</h2>
+     <h2>1. Create Blog Post (api/posts) - POST Method</h2>
     <p>For this, you have to provide all the necessary parameters in the payload.</p>
     <pre>
         Example request:
