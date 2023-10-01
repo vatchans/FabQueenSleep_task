@@ -26,8 +26,7 @@
         400: The parameter is missing; please include it in the payload
         401: You can't access any endpoints without an API key
     </pre>
-
-    <h2>2. Get All Posts (api/posts) - GET Method</h2>
+   <h2>2. Get All Posts (api/posts) - GET Method</h2>
     <pre>
         Response:
         200:
@@ -66,7 +65,6 @@
         204: No posts
         401: You can't access any endpoints without an API key
     </pre>
-
     <h2>3. Get Post by ID (api/posts/:id) - GET Method</h2>
     <p>You have to provide the ID in the query parameter like api/posts/6518240f0bb329000dc6f527.</p>
     <pre>
@@ -85,8 +83,7 @@
         204: No posts
         401: You can't access any endpoints without an API key
     </pre>
-
-    <h2>4. Update a Particular Blog Post by ID (api/posts/:id) - PUT Method</h2>
+   <h2>4. Update a Particular Blog Post by ID (api/posts/:id) - PUT Method</h2>
     <p>For this, you have to provide all the necessary parameters in the payload and also provide the ID in the query parameter like api/posts/6518240f0bb329000dc6f527.</p>
     <pre>
         Example request:
@@ -108,8 +105,7 @@
         400: The parameter is missing; please include it in the payload
         401: You can't access any endpoints without an API key
     </pre>
-
-    <h2>5. Get Latest Blog Post (/post/latest) - GET Method</h2>
+   <h2>5. Get Latest Blog Post (/post/latest) - GET Method</h2>
     <p>The success code response will contain only the latest post from unique categories.</p>
     <pre>
         Example response:
@@ -138,8 +134,7 @@
         ]
         401: You can't access any endpoints without an API key
     </pre>
-
-    <h2>6. Delete Blog Post by ID - DELETE Method</h2>
+  <h2>6. Delete Blog Post by ID - DELETE Method</h2>
     <p>You have to provide the ID in the query parameter like api/posts/6518240f0bb329000dc6f527.</p>
     <pre>
         Example response:
