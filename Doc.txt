@@ -25,7 +25,7 @@
             "content": "Science and Technology",
             "category": "Basic HTML view is going to the same place that Google Stadia went: the tech graveyard in the clouds. 
             Solen Feyissa / Unsplash. This week we learned that Google is killing off Gmail’s Basic HTML view. As reported by TechCrunch, starting in January 2024, Google will disable the stripped-down HTML version of the Gmail web app and mobile web app. Ah, another Google feature bites the dust. Gmail users who regularly use the Basic HTML view are seemingly receiving an email notification, and one poster on Hacker News reports that Google says: 'We’re writing to let you know that the Gmail Basic HTML view for desktop web and mobile web will be disabled starting early January 2024. The Gmail Basic HTML views are previous versions of Gmail that were replaced by their modern successors 10+ years ago and do not include full Gmail feature functionality.",
-            "category_id": "7654"
+            "category_id": "5543"
         }
     </pre>
     <pre>
