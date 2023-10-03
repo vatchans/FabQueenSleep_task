@@ -105,7 +105,7 @@
         400: The parameter is missing; please include it in the payload
         401: You can't access any endpoints without an API key
     </pre>
-   <h2>5. Get Latest Blog Post (/post/latest) - GET Method</h2>
+   <h2>5. Get Latest Blog Post (api/post/latest) - GET Method</h2>
     <p>The success code response will contain only the latest post from unique categories.</p>
     <pre>
         Example response:
